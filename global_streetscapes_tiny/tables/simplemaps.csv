@@ -1,0 +1,41 @@
+,uuid,source,orig_id,city,city_ascii,city_id,city_lat,city_lon,country,iso2,iso3,admin_name,capital,population
+0,eaa66d84-b317-4588-9e20-2b62aa22cfd8,Mapillary,4014873981891494,Orléans,Orleans,1250441405,47.9025,1.909,France,FR,FRA,Centre-Val de Loire,admin,116238.0
+1,009700da-2ab7-4e51-96ed-7bc3bc8df153,Mapillary,524061098757516,Orléans,Orleans,1250441405,47.9025,1.909,France,FR,FRA,Centre-Val de Loire,admin,116238.0
+2,dbcc3663-49d1-4c05-a6ed-4dc3ae6f6061,Mapillary,162325112503024,Orléans,Orleans,1250441405,47.9025,1.909,France,FR,FRA,Centre-Val de Loire,admin,116238.0
+3,4f0e9070-13a5-4ea3-bcb9-6666862b2fad,Mapillary,390987432221616,Orléans,Orleans,1250441405,47.9025,1.909,France,FR,FRA,Centre-Val de Loire,admin,116238.0
+4,22aab2fb-fcc3-47d6-a857-70227723494c,Mapillary,500236801200574,Orléans,Orleans,1250441405,47.9025,1.909,France,FR,FRA,Centre-Val de Loire,admin,116238.0
+5,08291c85-45e9-4b7e-9c7f-8319df8cacaa,Mapillary,1032840184186814,Orléans,Orleans,1250441405,47.9025,1.909,France,FR,FRA,Centre-Val de Loire,admin,116238.0
+6,4d2c563d-5241-49d1-addf-3c096c0534a2,Mapillary,886187308918211,Orléans,Orleans,1250441405,47.9025,1.909,France,FR,FRA,Centre-Val de Loire,admin,116238.0
+7,195a2083-f4bb-40b8-96cf-06779a7f20b9,KartaView,1504508985,Orléans,Orleans,1250441405,47.9025,1.909,France,FR,FRA,Centre-Val de Loire,admin,116238.0
+8,58c85061-021f-4122-b3b5-a2470f35c341,Mapillary,871477950414260,Orléans,Orleans,1250441405,47.9025,1.909,France,FR,FRA,Centre-Val de Loire,admin,116238.0
+9,22deb7a3-0fc5-4723-9945-08e246b2e05c,Mapillary,162368295825256,Orléans,Orleans,1250441405,47.9025,1.909,France,FR,FRA,Centre-Val de Loire,admin,116238.0
+10,eb94b1f3-8f42-450f-affc-aae9824b58fe,KartaView,1504505833,Orléans,Orleans,1250441405,47.9025,1.909,France,FR,FRA,Centre-Val de Loire,admin,116238.0
+11,6fa67d91-0bf5-4914-a1c5-4859a6cedfbd,Mapillary,531109791599907,Orléans,Orleans,1250441405,47.9025,1.909,France,FR,FRA,Centre-Val de Loire,admin,116238.0
+12,05752827-e598-41ab-b2ad-4db807a6b54a,Mapillary,982334042549854,Orléans,Orleans,1250441405,47.9025,1.909,France,FR,FRA,Centre-Val de Loire,admin,116238.0
+13,6a6fc3fb-a4fc-482d-96dd-b8be1c66e74d,KartaView,440181229,Orléans,Orleans,1250441405,47.9025,1.909,France,FR,FRA,Centre-Val de Loire,admin,116238.0
+14,d919a705-e19d-4924-9c61-ca66378d49d7,KartaView,1504508409,Orléans,Orleans,1250441405,47.9025,1.909,France,FR,FRA,Centre-Val de Loire,admin,116238.0
+15,175b878c-d03a-4655-b02f-759312fe58cc,Mapillary,1351283651916585,Orléans,Orleans,1250441405,47.9025,1.909,France,FR,FRA,Centre-Val de Loire,admin,116238.0
+16,d4cd4b7b-aec9-4525-b9d5-8bab201bf8c5,Mapillary,1573577382835548,Orléans,Orleans,1250441405,47.9025,1.909,France,FR,FRA,Centre-Val de Loire,admin,116238.0
+17,8b301438-9498-489a-996e-2ec60cef760f,Mapillary,801320764136858,Orléans,Orleans,1250441405,47.9025,1.909,France,FR,FRA,Centre-Val de Loire,admin,116238.0
+18,97fb0fd9-6b8e-480b-967b-ab86c89f427b,Mapillary,2643856569248041,Orléans,Orleans,1250441405,47.9025,1.909,France,FR,FRA,Centre-Val de Loire,admin,116238.0
+19,fc27f6bd-3315-43d0-ab7d-c2529bd09b03,Mapillary,487029289408518,Hameln,Hameln,1276101153,52.1031,9.36,Germany,DE,DEU,Lower Saxony,minor,57510.0
+20,ee2b4204-62b0-4a10-973d-5fe5d2c9f606,Mapillary,1911949492302126,Aurora,Aurora,1124085034,44.0,-79.4667,Canada,CA,CAN,Ontario,,55445.0
+21,e91e9014-37ab-48a2-bd7a-cddf9c5c399b,Mapillary,1613619158839928,Aurora,Aurora,1124085034,44.0,-79.4667,Canada,CA,CAN,Ontario,,55445.0
+22,e13ead66-a9d1-4a5d-87b3-87481fabdf4a,Mapillary,251788460030794,Aurora,Aurora,1124085034,44.0,-79.4667,Canada,CA,CAN,Ontario,,55445.0
+23,db090b0b-b6e9-4318-a432-225d83109542,Mapillary,227488628823257,Aurora,Aurora,1124085034,44.0,-79.4667,Canada,CA,CAN,Ontario,,55445.0
+24,d784ff3c-b45a-424a-ac7d-eb366d8dd995,Mapillary,302823854649153,Hameln,Hameln,1276101153,52.1031,9.36,Germany,DE,DEU,Lower Saxony,minor,57510.0
+25,be2527d0-0b21-4000-90eb-40f0d3e33367,Mapillary,762759514391120,Hameln,Hameln,1276101153,52.1031,9.36,Germany,DE,DEU,Lower Saxony,minor,57510.0
+26,a794bad2-a826-47c7-8417-54ef6e9d3fd5,Mapillary,1085842441905172,Aurora,Aurora,1124085034,44.0,-79.4667,Canada,CA,CAN,Ontario,,55445.0
+27,a3ddd13d-a6bf-4abe-bc97-0e896ddbb58c,Mapillary,129497249124621,Hameln,Hameln,1276101153,52.1031,9.36,Germany,DE,DEU,Lower Saxony,minor,57510.0
+28,964c05a7-364a-4a23-9e36-b9dae57e6709,Mapillary,216443753376621,Aurora,Aurora,1124085034,44.0,-79.4667,Canada,CA,CAN,Ontario,,55445.0
+29,6c0dcd34-b7da-4324-8541-61da9c879b2f,Mapillary,555931662062869,Aurora,Aurora,1124085034,44.0,-79.4667,Canada,CA,CAN,Ontario,,55445.0
+30,5a51ac08-742a-4808-90e9-440c6c03461c,Mapillary,305726617676665,Hameln,Hameln,1276101153,52.1031,9.36,Germany,DE,DEU,Lower Saxony,minor,57510.0
+31,4c352b2d-ec50-4c52-ad4c-24a67a0da110,Mapillary,2967575596859955,Aurora,Aurora,1124085034,44.0,-79.4667,Canada,CA,CAN,Ontario,,55445.0
+32,41c85f14-2ed6-42f7-b2f2-fd2318d70eea,Mapillary,149717844218275,Hameln,Hameln,1276101153,52.1031,9.36,Germany,DE,DEU,Lower Saxony,minor,57510.0
+33,3a4b60ca-5f62-4a3a-a255-e16a211554a9,Mapillary,912307629327688,Aurora,Aurora,1124085034,44.0,-79.4667,Canada,CA,CAN,Ontario,,55445.0
+34,3997a807-6d56-46e9-8675-337c2a505626,Mapillary,147369440641978,Aurora,Aurora,1124085034,44.0,-79.4667,Canada,CA,CAN,Ontario,,55445.0
+35,278347a2-48df-4d48-9f06-f1c5c937fca8,Mapillary,297817391952511,Hameln,Hameln,1276101153,52.1031,9.36,Germany,DE,DEU,Lower Saxony,minor,57510.0
+36,21da6685-c215-4b47-9a7d-8fefb790fcb2,Mapillary,2935461220075965,Aurora,Aurora,1124085034,44.0,-79.4667,Canada,CA,CAN,Ontario,,55445.0
+37,19c9cb57-4eb9-452a-966f-3da37a6a8a8a,Mapillary,908523803329750,Hameln,Hameln,1276101153,52.1031,9.36,Germany,DE,DEU,Lower Saxony,minor,57510.0
+38,112eaf30-08be-450a-82f0-ebe271c1027a,Mapillary,776765546363571,Aurora,Aurora,1124085034,44.0,-79.4667,Canada,CA,CAN,Ontario,,55445.0
+39,013626b6-b16f-44d4-b3cc-909b58841580,Mapillary,523933542098228,Aurora,Aurora,1124085034,44.0,-79.4667,Canada,CA,CAN,Ontario,,55445.0
