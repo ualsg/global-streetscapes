@@ -4,7 +4,7 @@
 Repository for all code used for download and processing of the NUS Global Streetscapes dataset, developed by the [Urban Analytics Lab (UAL)](https://ual.sg/) at the National University of Singapore (NUS).
 
 You can read more on the [project website](https://ual.sg/project/global-streetscapes/) too.
-The project website includes an overview of the project together with the background, paper, FAQ, etc.
+The project website includes an overview of the project together with the background, [paper](https://www.sciencedirect.com/science/article/pii/S0924271624002612#d1e3239), FAQ, etc.
 
 
 The journal paper can be found [here](https://www.sciencedirect.com/science/article/pii/S0924271624002612) and the dataset is hosted in [huggingface](https://huggingface.co/datasets/NUS-UAL/global-streetscapes).
@@ -23,7 +23,7 @@ Apart from their original metadata, each image has been enriched with a wide ran
 
 The charts below illustrate the class or value distribution among the 10 million images for (A) continents covered, (B) settlement typology (degree of urbanisation), (C) OSM road type, (D) camera projection type, (E) season, (F) hour of the day, (G) transportation mode, and (H) perception scores
 
-![overview](img/figure_6_summary.png)
+![overview](img/figure_6_summary_updated.png)
 
 # Requirements
 
@@ -106,7 +106,7 @@ Postprint for the paper can be downloaded [here](https://ual.sg/publication/2024
 
 Hou Y, Quintana M, Khomiakov M, Yap W, Ouyang J, Ito K, Wang Z, Zhao T, Biljecki F (2024): Global Streetscapes — A comprehensive dataset of 10 million street-level images across 688 cities for urban science and analytics. ISPRS Journal of Photogrammetry and Remote Sensing 215: 216-238.
 
-Bibtex:
+BibTex:
 ```
 @article{2024_global_streetscapes,
  author = {Hou, Yujun and Quintana, Matias and Khomiakov, Maxim and Yap, Winston and Ouyang, Jiani and Ito, Koichi and Wang, Zeyu and Zhao, Tianhong and Biljecki, Filip},
