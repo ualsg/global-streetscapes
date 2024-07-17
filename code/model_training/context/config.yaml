@@ -1,0 +1,23 @@
+hydra:
+  run:
+    dir: '.'
+
+ROOT_PATH: 'manual_labels/'
+VAL_EVERY_N_EPOCHS: 1
+MAX_EPOCHS: 50
+BATCH_SIZE: 32
+NUM_WORKERS: 16
+PRETRAINED: True # True or False
+LR: 3e-4
+WEIGHT_LOSS: True # True or False
+WEIGHT_STRATEGY: 'inverse' #inverse or uniform
+CROSS_VALIDATION: false # True or False
+SPLIT_WEATHER_ATTRIBUTE: false
+VAL_SPLIT_PROP: 0.33
+NUM_K_FOLDS: 5
+GRAD_CLIPPING: 5
+PRECISION: '16-mixed'
+ES_MODE: 'min'
+ES_METRIC: 'validation_loss' # Or validation_f1
+PATIENCE: 2
+RUN_ENVIRONMENT: 'KAROLINA'

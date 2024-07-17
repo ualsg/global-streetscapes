@@ -1,0 +1,2 @@
+id,altitude,atomic_scale,camera_parameters,camera_type,computed_altitude,computed_compass_angle,computed_rotation,exif_orientation,height,merge_cc,quality_score,width,make,model,computed_geometry.type,computed_geometry.coordinates,sfm_cluster.id,creator.username,creator.id
+1441643676472475,22.151670203544,1,"[0.85, 0, 0]",perspective,1.9999999990687,137.15151223025,"[0.7002348718463, -1.7845656787803, 1.7845656787803]",1,3024,975948357310190.0,0,4032,Apple,iPhone,Point,"[103.81740655801, 1.3164356992822]",975948357310189,filipb,105705978529028

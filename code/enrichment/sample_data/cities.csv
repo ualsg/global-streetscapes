@@ -1,0 +1,3 @@
+city,city_ascii,city_lat,city_lon,country,iso2,iso3,admin_name,capital,population,city_id,img_count,timezone,utc_offset_s,koppen_geiger_zone,zone_description
+Singapore,Singapore,1.3,103.8,Singapore,SG,SGP,Central Singapore,primary,5271000.0,1702341327,594,Asia/Singapore,28800.0,Af,Tropical rainforest
+Stuttgart,Stuttgart,48.7761,9.1775,Germany,DE,DEU,Baden-Württemberg,admin,630305.0,1276171358,1725,Europe/Berlin,7200.0,Cfb,"Marine west coast, warm summer"
