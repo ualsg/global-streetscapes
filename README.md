@@ -15,7 +15,7 @@ The journal paper can be found [here](https://www.sciencedirect.com/science/arti
 **Global Streetscapes** is an open dataset made up of 10 million Street-View Images (SVIs) spanning 688 cities from 212 countries and regions, crowdsourced from [Mapillary](https://www.mapillary.com/) and [KartaView](https://kartaview.org/landing).
 The map below shows the geographical coverage of the dataset.
 
-![map](img/figure_1_600dpi_purple3_cities688_all_standard_new.png)
+![map](img/figure_1_600dpi_purple3_cities688_all_standard_new_updated.png)
 
 Apart from their original metadata, each image has been enriched with a wide range of geospatial, temporal, contextual, semantic, and perceptual information adding up to 346 unique features, as shown in the below illustration.
 
