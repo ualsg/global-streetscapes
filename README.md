@@ -76,8 +76,8 @@ The following attributes were manually labelled and the chosen model (one per at
 | Lighting condition | String | 3 | day, night, dusk/dawn |
 | Panoramic status | Boolean | 2 | true, false |
 | Quality | String | 3 | good, slightly poor, very poor |
-| Glare | Boolean | 2 | true, false |
-| Reflection | Boolean | 2 | true, false |
+| Glare | Boolean | 2 | yes, no |
+| Reflection | Boolean | 2 | yes, no |
 
 Model performance:
 | Attribute | Model | Accuracy | Precision | Recall | F1 Score |
