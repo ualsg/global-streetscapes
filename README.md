@@ -1,19 +1,20 @@
 # Global Streetscapes
 [![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-Repository for all code used for download and processing of the NUS Global Streetscapes dataset, developed by the [Urban Analytics Lab (UAL)](https://ual.sg/) at the National University of Singapore (NUS).
+Repository for the code used for download and processing of the NUS Global Streetscapes dataset, developed by the [Urban Analytics Lab (UAL)](https://ual.sg/) at the National University of Singapore (NUS).
 
-You can read more on the [project website](https://ual.sg/project/global-streetscapes/) too.
-The project website includes an overview of the project together with the background, [paper](https://www.sciencedirect.com/science/article/pii/S0924271624002612#d1e3239), FAQ, etc.
+You can read more about this project on [its website](https://ual.sg/project/global-streetscapes/) too.
+It includes an overview of the project together with the background, [paper](https://doi.org/10.1016/j.isprsjprs.2024.06.023), examples, FAQ, etc.
 
+The journal paper can be found [here](https://doi.org/10.1016/j.isprsjprs.2024.06.023) and the dataset is hosted in [huggingface](https://huggingface.co/datasets/NUS-UAL/global-streetscapes).
 
-The journal paper can be found [here](https://www.sciencedirect.com/science/article/pii/S0924271624002612) and the dataset is hosted in [huggingface](https://huggingface.co/datasets/NUS-UAL/global-streetscapes).
+This repository contains also a detailed [Wiki](https://github.com/ualsg/global-streetscapes/wiki/) with tutorials.
 
 
 ![mosaic](img/mosaic_graphical_abstract.png)
 
-**Global Streetscapes** is an open dataset made up of 10 million Street-View Images (SVIs) spanning 688 cities from 212 countries and regions, crowdsourced from [Mapillary](https://www.mapillary.com/) and [KartaView](https://kartaview.org/landing).
-The map below shows the geographical coverage of the dataset.
+**Global Streetscapes** is an open dataset made up of 10 million Street View Images (SVIs) spanning 688 cities from 212 countries and regions, crowdsourced from [Mapillary](https://www.mapillary.com/) and [KartaView](https://kartaview.org/landing).
+The map below illustrates the geographical coverage of the dataset.
 
 ![map](img/figure_1_600dpi_purple3_cities688_all_standard_new_updated.png)
 
@@ -21,7 +22,7 @@ Apart from their original metadata, each image has been enriched with a wide ran
 
 ![labels](img/figure_3_4.jpg)
 
-The charts below illustrate the class or value distribution among the 10 million images for (A) continents covered, (B) settlement typology (degree of urbanisation), (C) OSM road type, (D) camera projection type, (E) season, (F) hour of the day, (G) transportation mode, and (H) perception scores
+The plots below illustrate the class or value distribution among the 10 million images for (A) continents covered, (B) settlement typology (degree of urbanisation), (C) OSM road type, (D) camera projection type, (E) season, (F) hour of the day, (G) transportation mode, and (H) perception scores.
 
 ![overview](img/figure_6_summary_updated.png)
 
@@ -99,14 +100,13 @@ For the following attributes, pre-trained models were ran directly to infer the 
 | Human perception | Float | Score between 0 to 10 for each category (safety, lively, beautiful, wealthy, boring, and depressing)| Visual transformer |
 
 
-## Postprint
-Postprint for the paper can be downloaded [here](https://ual.sg/publication/2024-global-streetscapes/2024-global-streetscapes.pdf).
+## Paper / Attribution / Citation
 
-## Cite our paper
+If you use Global Streetscapes, please cite the [paper](https://doi.org/10.1016/j.isprsjprs.2024.06.023):
 
-Hou Y, Quintana M, Khomiakov M, Yap W, Ouyang J, Ito K, Wang Z, Zhao T, Biljecki F (2024): Global Streetscapes — A comprehensive dataset of 10 million street-level images across 688 cities for urban science and analytics. ISPRS Journal of Photogrammetry and Remote Sensing 215: 216-238.
+Hou Y, Quintana M, Khomiakov M, Yap W, Ouyang J, Ito K, Wang Z, Zhao T, Biljecki F (2024): Global Streetscapes — A comprehensive dataset of 10 million street-level images across 688 cities for urban science and analytics. ISPRS Journal of Photogrammetry and Remote Sensing 215: 216-238. doi:[10.1016/j.isprsjprs.2024.06.023](https://doi.org/10.1016/j.isprsjprs.2024.06.023)
 
-BibTex:
+BibTeX:
 ```
 @article{2024_global_streetscapes,
  author = {Hou, Yujun and Quintana, Matias and Khomiakov, Maxim and Yap, Winston and Ouyang, Jiani and Ito, Koichi and Wang, Zeyu and Zhao, Tianhong and Biljecki, Filip},
@@ -118,3 +118,7 @@ BibTex:
  year = {2024}
 }
 ```
+
+## Postprint
+
+Besides the [published paper](https://doi.org/10.1016/j.isprsjprs.2024.06.023), a free version (postprint / author-accepted manuscript) can be downloaded [here](https://ual.sg/publication/2024-global-streetscapes/).
