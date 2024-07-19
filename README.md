@@ -102,7 +102,7 @@ For the following attributes, pre-trained models were ran directly to infer the 
 
 ## Paper / Attribution / Citation
 
-If you use Global Streetscapes, please cite the paper:
+If you use Global Streetscapes, please cite the [paper](https://doi.org/10.1016/j.isprsjprs.2024.06.023):
 
 Hou Y, Quintana M, Khomiakov M, Yap W, Ouyang J, Ito K, Wang Z, Zhao T, Biljecki F (2024): Global Streetscapes — A comprehensive dataset of 10 million street-level images across 688 cities for urban science and analytics. ISPRS Journal of Photogrammetry and Remote Sensing 215: 216-238. doi:[10.1016/j.isprsjprs.2024.06.023](https://doi.org/10.1016/j.isprsjprs.2024.06.023)
 
