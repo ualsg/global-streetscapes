@@ -1,19 +1,19 @@
 """
 Run this script to download Mapillary and KartaView images.
 
-Input format requirement: a csv file with each row representing an image to download and 
-containing minimally three columns to specify its 'uuid' (the uuid assigned to the image), 
-'source' (whether its source is 'Mapillary' or 'KartaView'), and 'orig_id' (original ID as 
+Input format requirement: a csv file with each row representing an image to download and
+containing minimally three columns to specify its 'uuid' (the uuid assigned to the image),
+'source' (whether its source is 'Mapillary' or 'KartaView'), and 'orig_id' (original ID as
 given by the source).
 
 Notes:
 1. Run the script a few times until you observe no change in total number of downloaded images,
-or as indicated by the message that all images have been downloaded, because not all images can 
-be downloaded in one go due to network issues. 
+or as indicated by the message that all images have been downloaded, because not all images can
+be downloaded in one go due to network issues.
 2. Sometimes, despite running the script a few times until no more change is observed in the total
-number of downloaded images, some images could still be missing. This is because sometimes the image 
-file could just be unavailable, despite presence of its metadata, due to unknown reasons (e.g. 
-contributor deleted the image, or maybe the image didn't pass some kind of internal quality check by 
+number of downloaded images, some images could still be missing. This is because sometimes the image
+file could just be unavailable, despite presence of its metadata, due to unknown reasons (e.g.
+contributor deleted the image, or maybe the image didn't pass some kind of internal quality check by
 Mapillary/KartaView etc.).
 """
 
@@ -41,7 +41,7 @@ def check_id(image_folder):
 
 if __name__ == '__main__':
 
-    access_token = 'MLY%7C6103316279742869%7Cbf386aec4e6014cba11cc5b83e119777' # update your mapillary access token
+    access_token = 'INSERT-YOUR-TOKEN-HERE' # update your mapillary access token
     mly.set_access_token(access_token)
 
     # Update in_csvPath and out_jpegFolder to suit your needs

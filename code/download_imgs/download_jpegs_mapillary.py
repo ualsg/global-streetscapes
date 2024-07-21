@@ -2,9 +2,9 @@
 This script contains functions imported by download_jpegs.py.
 It can also be run on its own to download Mapillary images.
 
-Input format requirement: a csv file with each row representing an image to download and 
-containing minimally three columns to specify its 'uuid' (the uuid assigned to the image), 
-'source' (whether its source is 'Mapillary' or 'KartaView'), and 'orig_id' (original ID as 
+Input format requirement: a csv file with each row representing an image to download and
+containing minimally three columns to specify its 'uuid' (the uuid assigned to the image),
+'source' (whether its source is 'Mapillary' or 'KartaView'), and 'orig_id' (original ID as
 given by the source).
 """
 
