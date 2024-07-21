@@ -30,7 +30,7 @@ def main(cfg):
     
     ## Use datasets on weather split into precipitation and non-precipitation
     if CONFIG.get('SPLIT_WEATHER_ATTRIBUTE'):    
-        attr_dict = {'field_of_view': 'field_of_view.csv',
+        attr_dict = {
                     'glare': 'glare.csv',
                     'lighting_condition': 'lighting_condition.csv',
                     'pano_status': 'pano_status.csv',
@@ -41,7 +41,7 @@ def main(cfg):
                     'weather_precipitation': 'weather_precipitation.csv',
                     'weather_nonprecipitation': 'weather_nonprecipitation.csv'}
     else:
-        attr_dict = {'field_of_view': 'field_of_view.csv',
+        attr_dict = {
                     'glare': 'glare.csv',
                     'lighting_condition': 'lighting_condition.csv',
                     'pano_status': 'pano_status.csv',
