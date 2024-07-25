@@ -28,13 +28,18 @@ The plots below illustrate the class or value distribution among the 10 million 
 
 # Requirements
 
-To install requirements for CV (computer vision) related tasks (`code/model_training`):
+To install requirements for CV (computer vision) related tasks (i.e. `code/model_training`):
+
+Install Python 3.10.14
 
 ```
 pip install -r requirements-cv-linux.txt
 ```
+Note that some packages might require Linux system.
 
-To install requirements for non-CV related tasks (`code/raw_download`, `code/download_imgs`, `code/enrichment`):
+To install requirements for non-CV related tasks (i.e. `code/raw_download`, `code/download_imgs`, `code/enrichment`):
+
+Install Python 3.10.1
 
 ```
 pip install -r requirements-non_cv.txt
