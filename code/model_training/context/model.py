@@ -12,6 +12,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import io
 from PIL import Image
+import os
 
 
 class GlobalStreetScapesClassificationTrainer(pl.LightningModule):
@@ -232,7 +233,10 @@ class GlobalStreetScapesClassificationTrainer(pl.LightningModule):
             idx = 0 if self.kwargs.get('kfold') else self.kwargs.get('kfold')
             df = pd.DataFrame([out_dict], index=[idx+1]) # Final test run
             
-            df.to_csv(f'./results/test_results_{self.kwargs.get("uuid")}.csv', index=False)
+            results_dir = './results'
+            if not os.path.exists(results_dir):
+                os.makedirs(results_dir)
+            df.to_csv(f'{results_dir}/test_results_{self.kwargs.get("uuid")}.csv', index=False)
             
             table = wandb.Table(data=df)
 

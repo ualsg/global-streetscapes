@@ -21,3 +21,6 @@ cache
 *.caffemodel
 data/TRAIN_TEST
 code/model_training/perception/models/**
+code/model_training/context/multirun/**
+code/model_training/context/.hydra/**
+code/model_training/context/wandb/**

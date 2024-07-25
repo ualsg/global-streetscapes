@@ -20,4 +20,4 @@ PRECISION: '16-mixed'
 ES_MODE: 'min'
 ES_METRIC: 'validation_loss' # Or validation_f1
 PATIENCE: 2
-RUN_ENVIRONMENT: 'KAROLINA'
+#RUN_ENVIRONMENT: 'KAROLINA'
