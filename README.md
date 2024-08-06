@@ -6,7 +6,7 @@ Repository for the code used for download and processing of the NUS Global Stree
 You can read more about this project on [its website](https://ual.sg/project/global-streetscapes/) too.
 It includes an overview of the project together with the background, [paper](https://doi.org/10.1016/j.isprsjprs.2024.06.023), examples, FAQ, etc.
 
-The journal paper can be found [here](https://doi.org/10.1016/j.isprsjprs.2024.06.023) and the dataset is hosted in [huggingface](https://huggingface.co/datasets/NUS-UAL/global-streetscapes).
+The journal paper can be found [here](https://doi.org/10.1016/j.isprsjprs.2024.06.023) and the dataset is hosted on [Hugging Face](https://huggingface.co/datasets/NUS-UAL/global-streetscapes). For users who have no access to Hugging Face, the dataset is also available on [Baidu Cloud Disk](https://pan.baidu.com/s/1wsbqfbA56sXjIdb0KoSBbQ?pwd=98tr) (code: 98tr).
 
 This repository contains also a detailed [Wiki](https://github.com/ualsg/global-streetscapes/wiki/) with tutorials.
 
