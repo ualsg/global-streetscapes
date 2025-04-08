@@ -116,7 +116,7 @@ def download_points_for_sequence(seq, ls, bbox):
     Store the cropped data in a list.
     """
     sequenceId = seq['id']
-    url = f"https://api.openstreetcam.org/2.0/sequence/{sequenceId}/photos?itemsPerPage=10000&join=user,photo,photos,attachment,attachments"
+    url = f"https://api.openstreetcam.org/2.0/sequence/{sequenceId}/photos?itemsPerPage=10000&join=user"
     # print(f'===> retrieving points from url... <URL: {url}>')
     data = get_data_from_url(url)
     if data:
